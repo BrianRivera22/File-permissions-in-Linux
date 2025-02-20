@@ -5,8 +5,25 @@
 <p>Here’s how I did this task: First, I checked the user and group permissions for all files in the projects directory. Then, I checked whether any files had incorrect permissions and changed the permissions as needed. Finally, I checked the permissions of the /home/researcher2/projects/drafts directory and modified those permissions to remove any unauthorized access.</p>
 
 <h2>Check file and directory details</h2>
-<img src="https://github.com/BrianRivera22/BrianRivera22/blob/main/Check%20file%20and%20directory%20details.png?raw=true" />
+<img src="https://github.com/BrianRivera22/File-permissions-in-Linux/blob/main/File%20permissions%20in%20Linux%201.png" />
+<img src="https://github.com/BrianRivera22/BrianRivera22/blob/main/File%20permissions%20in%20Linux%202.png" />
+
+<h2>Change file permissions</h2>
+<img src="https://github.com/BrianRivera22/BrianRivera22/blob/main/File%20permissions%20in%20Linux%203.png" />
+<img src="https://github.com/BrianRivera22/BrianRivera22/blob/main/File%20permissions%20in%20Linux%204.png" />
+
+<h2>Change file permissions on a hidden file</h2>
+<img src="https://github.com/BrianRivera22/BrianRivera22/blob/main/File%20permissions%20in%20Linux%205.png" />
+
+<h2>Change directory permissions</h2>
+<img src="https://github.com/BrianRivera22/BrianRivera22/blob/main/File%20permissions%20in%20Linux%206.png" />
+
+<h2>Summary</h2>
+<p>Here I showed that I have practical experience in using basic Linux Bash shell commands to:</p>
+<li>examine file and directory permissions</li>
+<li>change permissions on files</li>
+<li>change permissions on directories </li>
 
 
 
-# File-permissions-in-Linux
+
